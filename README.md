@@ -34,7 +34,7 @@ Tenable Security Center API
 
 ## Results
 
-- Contributed to a 65% reduction in critical CVEs over 6 months
+- Contributed to an 85% reduction in critical CVEs across 100+ servers and endpoints
 - Reduced remediation ticket creation from roughly 3 hours per week to under 10 minutes
 - Eliminated manual data entry errors that previously caused ticket misroutes
 - Ensured high-severity findings reached the right team the same day they were discovered
